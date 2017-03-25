@@ -1,0 +1,9 @@
+Triangles/*.iml
+Triangles/.gradle
+Triangles/local.properties
+Triangles/.idea/workspace.xml
+Triangles/.idea/libraries
+Triangles/.DS_Store
+Triangles/build
+Triangles/captures
+Triangles/.externalNativeBuild
